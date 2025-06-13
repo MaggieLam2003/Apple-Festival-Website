@@ -9,6 +9,12 @@ Take a look at the design-plan folder for more details on the goals, audience, a
 
 **This repo was taken from my course github account ml2568 [https://github.coecis.cornell.edu/ml2568], I have moved the majority of my projects to my personal github account**
 
+## Image Walk-through
+
+![1.png](Start)
+![2.png](events)
+![3.png](info)
+
 ## Instruction
 1. Open up the website on codespace
 2. Install the neccessary extensions(ex, PHP)
