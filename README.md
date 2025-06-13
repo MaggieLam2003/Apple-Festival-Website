@@ -11,9 +11,9 @@ Take a look at the design-plan folder for more details on the goals, audience, a
 
 ## Image Walk-through
 
-![1.png](Start)
-![2.png](events)
-![3.png](info)
+![HOme](1.png)
+![Event](2.png)
+![Info](3.png)
 
 ## Instruction
 1. Open up the website on codespace
